@@ -42,7 +42,7 @@ p {
 :root {
   --primary-clr: #010f2c;
   --secondary-clr: #f15a24;
-  --light-bg-clr: rgb(248 249 250);
+  --light-bg-clr: rgb(243, 248, 253);
   --bulliet-point-clr: rgb(25 135 84);
   --icon-clr: #f15a24;
   --pure-white: #fff;
